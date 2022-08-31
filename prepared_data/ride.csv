@@ -1,0 +1,323 @@
+id,manufacturer,name,ride_type_id
+0,Arrow Dynamics,boat ride,0
+1,Bolliger & Mabillard,inverted coaster,1
+2,Intamin AG,looping coaster,1
+3,Arrow Dynamics,Mine Train,1
+4,Vekoma,shoot the chute,2
+5,Arrow Dynamics,looping coaster,1
+6,Morgan,carousel,3
+7,Custom Coasters Int.,wooden coaster,4
+8,Hurlbut,dark ride,5
+9,Arrow Dynamics,4th dimension coaster,1
+10,Intamin AG,rafting ride,6
+11,Mack Rides,spinning coaster,1
+12,Larson International Inc.,Super Loops/Fireball,5
+13,Huss Rides,Top Spin,7
+14,Metallbau Emmeln GmbH & Co. KG,hand cars,8
+15,Intamin AG,motion simulator,9
+16,Intamin AG,giant gondola wheel,10
+17,"Chance Manufacturing, Inc.",Giant Wheel,10
+18,Intamin AG,Accelerator Coaster,1
+19,Intamin AG,Reverse Freefall Coaster,1
+20,Zamperla,Family Gravity Coaster,11
+21,Kuka,Robocoaster,12
+22,Arrow Dynamics,Hydro Flume,13
+23,Schwarzkopf  Rides,Calypso,14
+24,Vekoma,Boomerang,1
+25,Bolliger & Mabillard,flying coaster,1
+26,Sellner,Tilt-a-Whirl,15
+27,Chance Morgan,airplanes,16
+28,Bertazzon 3B SLR,dark ride,5
+29,Charles Looff,wooden coaster,4
+30,"Miler Coaster, Inc.",wild mouse,1
+31,Vekoma,Giant Wheel,10
+32,Mack Rides,tea cups,17
+33,Morgan,swing ride,18
+34,"Chance Manufacturing, Inc.",Revolution,19
+35,Zamperla,kiddie train,20
+36,Bertazzon 3B SLR,Flying Carousel,18
+37,Arrow Dynamics,flume ride,13
+38,Hi-Lite Rides - Grover Watkins - Venture,Swinger,18
+39,Larson International Inc.,Flying Scooters,18
+40,Sellner,Turtle Twirl,15
+41,Allan Herschell Company,flying jet/rocket,16
+42,Moser Rides SRL (Soriani),Spring Ride,21
+43,"Wisdom Industries, Ltd.",Gravitron/Starship,22
+44,Funtime Group,StarFlyer,18
+45,Intamin AG,Looping Starship,23
+46,Morgan,kiddie boat ride,0
+47,Reverchon,flume ride,13
+48,Eli Bridge Co.,Scrambler,14
+49,"Premier Rides, Inc.",LIM coaster,1
+50,Falgas Commerical S.L.,kiddie train,20
+51,Zamperla,family/kiddie coaster,11
+52,Intamin AG,Ball Coaster,1
+53,Vekoma,suspended coaster,1
+54,"Chance Manufacturing, Inc.",Trabant/Wipe Out,24
+55,Great Coasters,wooden coaster,4
+56,Huss Rides,Pirate Ship,25
+57,Mack Rides,water coaster ride,13
+58,Eyerly Aircraft Co.,Spider,26
+59,Zamperla,tea cups,17
+60,SDC,steel sitdown coaster,1
+61,"Chance Manufacturing, Inc.",tram,20
+62,Huss Rides,Enterprise,27
+63,Bertazzon 3B SLR,Himalaya,28
+64,Lusse,kiddie bumper cars,29
+65,I.E. Park,tea cups,17
+66,Bolliger & Mabillard,stand-up coaster,1
+67,S&S Worldwide,Frog Hopper,21
+68,S&S Worldwide,Double Shot,21
+69,Zamperla,Speedway,30
+70,"Chance Manufacturing, Inc.",train,20
+71,Sally Corporation,dark ride,5
+72,"Chance Manufacturing, Inc.",Sea Dragon,25
+73,Intamin AG,Twisted Impulse Coaster,1
+74,The Gravity Group,wooden coaster,4
+75,Intamin AG,wooden coaster,4
+76,Zamperla,steel sitdown coaster,1
+77,Eli Bridge Co.,Lil' Scrambler,14
+78,KMG International,Afterburner/Fireball,19
+79,Fajume,Wacky Worm,11
+80,Schwarzkopf  Rides,Looping Star,1
+81,Zierer,Tivoli,11
+82,Mondial Fair Attractions,Wind Seeker,31
+83,"Chance Manufacturing, Inc.",Inverter,23
+84,Intamin AG,shoot the chute,2
+85,Hampton Amusement Rides LLC,Tubs of Fun,17
+86,Sellner,Berry Go Round,17
+87,Eli Bridge Co.,Hy 5 Ferris Wheel,10
+88,I.E. Park,Rockin' Tug,32
+89,Vekoma,family/kiddie coaster,11
+90,Sellner,tea cups,17
+91,"Majestic Manufacturing, Inc.",bumper cars,29
+92,S&S Worldwide,Turbo Drop,21
+93,Arrow Dynamics,suspended coaster,1
+94,Zamperla,airplanes,16
+95,Zamperla,Balloon Race,33
+96,Huss Rides,Flying Boats,26
+97,Morgan,steel sitdown coaster,1
+98,Chance Morgan,Revolution,19
+99,Zamperla,kiddie roundabout,30
+100,Reflection,motion simulator,9
+101,Morgan,wooden coaster,4
+102,"O.D. Hopkins Associates, Inc.",steel sitdown coaster,1
+103,"Chance Manufacturing, Inc.",C.P. Huntington Train,20
+104,"O.D. Hopkins Associates, Inc.",flume ride,13
+105,Arrow Dynamics,shuttle loop coaster,1
+106,Allan Herschell Company,Little Dipper,11
+107,Schwarzkopf  Rides,steel sitdown coaster,1
+108,Mack Rides,wild mouse,1
+109,"Wisdom Industries, Ltd.",Tornado,34
+110,Gerstlauer,Euro-Fighter,1
+111,Huss Rides,Rainbow,35
+112,Intamin AG,Vertical Lift Coaster,1
+113,Eyerly Aircraft Co.,Monster,26
+114,Oceaneering International,interactive dark ride,5
+115,"Chance Manufacturing, Inc.",ferris wheel,10
+116,Intamin AG,wing coaster,1
+117,Arrow Dynamics,Custom looping coaster,1
+118,"O.D. Hopkins Associates, Inc.",shoot the chute,2
+119,Bolliger & Mabillard,steel sitdown coaster,1
+120,"Chance Manufacturing, Inc.",36' Carousel,3
+121,Philadelphia Toboggan Coasters (PTC),wooden coaster,4
+122,Zamperla,Disk'O',32
+123,Setpoint,Aerial Water Coaster,1
+124,KMG International,X-Factory,35
+125,SDS,bumper cars,29
+126,"Miler Coaster, Inc.",family/kiddie coaster,11
+127,Intamin AG,flume ride,13
+128,Mangels,Whip,36
+129,"Premier Rides, Inc.",LIM shuttle loop coaster,1
+130,Giovanola,mega coaster,1
+131,Eyerly Aircraft Co.,Roll-O-Plane,37
+132,"Premier Rides, Inc.",Sky Rocket,1
+133,Borvig Ski Lifts,sky ride,38
+134,Bradley & Kaye,family/kiddie coaster,11
+135,"Premier Rides, Inc.",steel sitdown coaster,1
+136,National Amusements,wooden coaster,4
+137,Philadelphia Toboggan Coasters (PTC),carousel,3
+138,Dentzel,carousel,3
+139,Preston & Barbieri,boat ride,0
+140,Intamin AG,family/kiddie coaster,11
+141,Dinn,wooden coaster,4
+142,Zierer,Wave Swinger,18
+143,Zamperla,Kite Flyer,39
+144,Arrow Dynamics,tea cups,17
+145,Moser Rides SRL (Soriani),Discovery,19
+146,A.R.M. Inc.,Super Shot,21
+147,Allan Herschell Company,Caterpillar,28
+148,Zamperla,Crazy Bus,35
+149,"Skycoaster, Inc.",Skycoaster,40
+150,Zamperla,Red Baron,16
+151,Reverchon,bumper cars,29
+152,Schwarzkopf  Rides,shuttle loop coaster,1
+153,Arrow Dynamics,car ride,8
+154,Recreational Enterprise,bumper boats,41
+155,Schwarzkopf  Rides,Bayern Kurve,28
+156,Intamin AG,drop tower,21
+157,Zamperla,Wave Blaster,16
+158,SBF Visa,Pirate Ship,25
+159,Hampton Amusement Rides LLC,Motorcycles,30
+160,Gerstlauer,family/kiddie coaster,11
+161,Arrow Dynamics,antique cars,8
+162,International Amusement Devices,wooden coaster,4
+163,Intamin AG,boat ride,0
+164,Zamperla,Rockin' Tug,32
+165,Dartron Industries,Cliffhanger,39
+166,Intamin AG,Swiss Bob,1
+167,Schwarzkopf  Rides,Enterprise,27
+168,"Sansei Yusoki Co., Ltd.",observation tower,31
+169,"Chance Manufacturing, Inc.",carousel,3
+170,Dynamic Structures,motion simulator,9
+171,Zamperla,Flying Tigers,16
+172,Charles Looff,airplanes,16
+173,Kay Recreation,paddle boats,0
+174,Mack Rides,Musik Express,28
+175,"Interactive Rides, Inc.",Sky Skater,5
+176,Arrow Dynamics,shoot the chute,2
+177,Fabbri Group,wild mouse,1
+178,Philadelphia Toboggan Coasters (PTC),car ride,8
+179,Zamperla,Flying Carousel,18
+180,Zamperla,Mini Enterprise,27
+181,Waterworld Products Inc.,flume ride,13
+182,Huss Rides,Breakdance,14
+183,Aeroaffiliattes,Flying Coaster flat ride,16
+184,Zamperla,Power Surge,42
+185,Barr Engineering,rafting ride,6
+186,Huss Rides,Frisbee,19
+187,Repine,fun house,43
+188,Huss Rides,G-Force,14
+189,Zamperla,Family Swinger,18
+190,S.B. Ramagosa & Sons,kiddie roundabout,30
+191,Bolliger & Mabillard,wooden coaster,4
+192,ETF Ride Systems,dark ride,5
+193,Bertazzon 3B SLR,bumper cars,29
+194,Bolliger & Mabillard,wing coaster,1
+195,Zamperla,Galleon,25
+196,Arrow Dynamics,Corkscrew coaster,1
+197,Zierer,stand-up boat ride,0
+198,Baldwin Locomotive Works,train,20
+199,Funtime Group,Sling Shot,44
+200,National Amusement Device Company,wooden coaster,4
+201,KMG International,Tango,42
+202,Custom Coasters Int.,dark ride,5
+203,Allan Herschell Company,carousel,3
+204,Lusse,bumper cars,29
+205,Zamperla,Convoy,5
+206,Kramer Carousel Works,carousel,3
+207,Bolliger & Mabillard,Floorless coaster,1
+208,Recreational Structure,Skycoaster,40
+209,Allan Herschell Company,train,20
+210,Bertazzon 3B SLR,Rock N Roll,28
+211,S&S Worldwide,jr. drop tower,21
+212,Idees Loisirs S.A.,kiddie car ride,8
+213,Maurer Sohne,wild mouse,1
+214,Huss Rides,Condor,31
+215,S&S Worldwide,Space Shot,21
+216,Roller Coaster Corporation of America,wooden coaster,4
+217,SIB International,boat ride,0
+218,Zamperla,kiddie ferris wheel,10
+219,SBF Visa,Drop & Twist,21
+220,Zamperla,Crazy Submarine,35
+221,Zamperla,Demolition Derby,30
+222,Alter Enterprises,hand cars,8
+223,Bradley & Kaye,airplanes,16
+224,Zamperla,wild mouse,1
+225,Schwarzkopf  Rides,looping coaster,1
+226,Intamin AG,Parachute Drop,21
+227,Soli,bumper cars,29
+228,Moser Rides SRL (Soriani),Gyro Loop,45
+229,Morgan,boat ride,0
+230,"Wisdom Industries, Ltd.",family/kiddie coaster,11
+231,Pinfari,Zyklon,1
+232,Technical Park,Fighter,19
+233,"Chance Manufacturing, Inc.",family/kiddie coaster,11
+234,Bolliger & Mabillard,Hyper Coaster,1
+235,Reverchon,spinning coaster,1
+236,Zamperla,Samba Balloons,33
+237,Huss Rides,Troika,26
+238,S&S Worldwide,drop tower,21
+239,Reverchon,dark ride,5
+240,Zamperla,flying jet/rocket,16
+241,Mack Rides,Twist 'n Splash,17
+242,Morgan,Hyper Coaster,1
+243,Morgan,hand cars,8
+244,SBF Visa,kiddie track ride,5
+245,"Chance Manufacturing, Inc.",flying elephants,16
+246,Zamperla,Lolli Swing,18
+247,"Chance Manufacturing, Inc.",Space Shuttle,25
+248,Metallbau Emmeln GmbH & Co. KG,kiddie track ride,5
+249,A.R.M. Inc.,Musik Express,28
+250,Gebr. Heege GmbH,antique cars,8
+251,Zierer,Flitzer,1
+252,Allan Herschell Company,kiddie roundabout,30
+253,C and S,bumper cars,29
+254,SBF Visa,Frisbee,19
+255,Stein & Goldstein,carousel,3
+256,Owens Trailers Inc.,fun house,43
+257,S&S Worldwide,Sling Shot,44
+258,Eli Bridge Co.,ferris wheel,10
+259,King,car ride,8
+260,Moser Rides SRL (Soriani),Swing Around,18
+261,Vekoma,Mad House,9
+262,Zierer,airplanes,16
+263,Philadelphia Toboggan Coasters (PTC),Grand Carousel,3
+264,Zamperla,Jump Around,16
+265,Vekoma,jr. drop tower,21
+266,Setpoint,motion simulator,9
+267,Zamperla,hanglider ride,39
+268,Zamperla,Discovery,19
+269,Zierer,steel sitdown coaster,1
+270,PTC/Technifex,walk-thru dark ride,43
+271,Battech Enterprises,Zero Gravity,39
+272,Allan Herschell Company,family/kiddie coaster,11
+273,Zamperla,Regatta,28
+274,Hurlbut,antique cars,8
+275,Sellner,Dizzy Dragons,17
+276,Triotech IDR,interactive dark ride,5
+277,Eyerly Aircraft Co.,kiddie roundabout,30
+278,Kasper Klaus,Roto-Jet,16
+279,Gerstlauer,shuttle family coaster,11
+280,King,Pony Carts,30
+281,"Chance Manufacturing, Inc.",Sky Diver,46
+282,Hampton Amusement Rides LLC,kiddie roundabout,30
+283,Zamperla,swing ride,18
+284,Larson International Inc.,Ring Of Fire,5
+285,Petzl America,dark ride,5
+286,B.A. Schiff,boat ride,0
+287,Hodges Hand Cars,hand cars,8
+288,Vulcan Iron Works,train,20
+289,Zamperla,kiddie whip,36
+290,Allan Herschell Company,wild mouse,1
+291,Philadelphia Toboggan Coasters (PTC),tea cups,17
+292,"Chance Manufacturing, Inc.",YoYo,18
+293,Traver/Chambers,Tumble Bug,47
+294,Skyline Attractions,Crazy Couch,35
+295,Dynamic Structures,Robocoaster,12
+296,Zamperla,Samba Tower,31
+297,Allan Herschell Company,miniature train,20
+298,Mack Rides,steel sitdown coaster,1
+299,"Chance Manufacturing, Inc.",Suspended Family Coaster,1
+300,Crown Metal Products,train,20
+301,A.R.M. Inc.,drop tower,21
+302,Bradley & Kaye,Balloon Race,33
+303,Zamperla,Endeavor,33
+304,Intamin AG,Bounty,25
+305,Zamperla,Mini Jet,16
+306,Setpoint,dark ride,5
+307,Vekoma,Giant Inverted Boomerang,1
+308,Ride Entertainment Group,Skycoaster,40
+309,Gerstlauer,steel sitdown coaster,1
+310,Vekoma,wild mouse,1
+311,Zamperla,Hawk,23
+312,ART Engineering GmbH,interactive dark ride,5
+313,"Chance Manufacturing, Inc.",giant gondola wheel,10
+314,"Chance Manufacturing, Inc.",Grand Carousel,3
+315,Morgan,Hustler,17
+316,"Chance Manufacturing, Inc.",Tobaggan,11
+317,"Chance Manufacturing, Inc.",Revolution 32,19
+318,"Wisdom Industries, Ltd.",Moby Dick,35
+319,Hi-Lite Rides - Grover Watkins - Venture,kiddie roundabout,30
+320,Hi-Lite Rides - Grover Watkins - Venture,drop tower,21
+321,Hi-Lite Rides - Grover Watkins - Venture,Himalaya,28

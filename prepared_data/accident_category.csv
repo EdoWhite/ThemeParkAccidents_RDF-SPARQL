@@ -1,0 +1,37 @@
+id,accident_category
+0,Load/Unload: scrape or stumble
+1,Body pain (normal motion)
+2,Illness or neurological symptoms
+3,Illness: Seizure or LOC
+4,Impact: hit something within ride vehicle
+5,Collision: patrons collided within vehicle
+6,Load/Unload: hit or pinched by restraint
+7,Restraint too tight
+8,"Fall: patron fell from seat, but not carrier"
+9,Abrupt stop/drop/lurch
+10,Injured by foreign object
+11,Injured in queue or exit
+12,Collision: operator-controlled vehicles
+13,Unknown (not enough info)
+14,Equipment failure
+15,Fall: ejection/fall from ride
+16,Impact: person hit by ride
+17,Fall: in climb or play area
+18,Entrapment or pinch-point
+19,Unscheduled stop
+20,Impact: extremity hit something outside carrier
+21,Other
+22,Impact: hit by loose piece of attraction
+23,Injured during evacuation
+24,Hyperextension or dislocation
+25,Load/Unload: injured when vehicle moved
+26,Seatbelt abrasion or bruising
+27,Collision: patron-controlled vehicles
+28,Impact: overcome by attraction water splash
+29,Collision: patrons collided (participatory)
+30,Employee injured
+31,Impact: hit something in participatory attraction
+32,Collision: go-kart or bumper car hit stationary object
+33,Derailment
+34,Burn (includes friction burn)
+35,Electrical shock
