@@ -20,20 +20,20 @@ def importRDF(filename, format):
 with st.spinner('Loading all the stuffs...'):
     graph = importRDF("./RDF/rdf-dataset.ttl", "ttl")
 
-# MOTHOD TO CONVERT THE QUERY RESULT INTO A DATAFRAME
+# METHOD TO CONVERT THE QUERY RESULT INTO A DATAFRAME
 def sparql_results_to_df(results):
     return pd.DataFrame(
         data=([None if x is None else x.toPython() for x in row] for row in results),
         columns=[str(x) for x in results.vars],
     )
 
-# METHOD TO EXECUTE A GENERIC QUERY (and return a pandas dataframe)
+# METHOD TO EXECUTE A GENERIC QUERY 
 def computeQuery(query, executor):
     result = executor.query(query)
     res_df = sparql_results_to_df(result)
     return res_df
 
-# METHOD TO EXECUTE A PARAMETRIC QUERY (select all the accidents description and manufacturer of a user-selected ride)
+# METHOD TO EXECUTE A PARAMETRIC QUERY
 def rideAccidentDescription(ride_name, executor):
         ride_name = Literal(ride_name)
         query = """
@@ -84,8 +84,11 @@ def display():
         option = st.selectbox("Select a Ride", options=ride_names)
         res, query = rideAccidentDescription(option, graph)
         res_count = res.count()[0]
-        limit = st.slider("Num. of Accidents to Visualize", 1, int(res_count), 5, 1)
-        st.table(res[:limit])
+        if (res_count < 3):
+            st.table(res)
+        else:
+            limit = st.slider("Num. of Accidents to Visualize", 1, int(res_count), 2, 1)
+            st.table(res[:limit])
         with st.expander("Show query"):
             st.code(query, language="sparql")
         st.markdown("---")
@@ -266,10 +269,13 @@ pers_query = st.text_area('', """
         ?ride ride:manufacturer "Vekoma" ;
               ride:name ?name
     }
-""", height=200)
+    """, height=200)
 with st.container():
-    res = computeQuery(pers_query, graph)
-    st.table(res)
+    try:
+        res = computeQuery(pers_query, graph)
+        st.table(res)
+    except:
+        st.error("Ooops! Check you query syntax...")
     st.markdown("---")
 
 # SIDEBAR
