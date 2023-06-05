@@ -5,6 +5,7 @@
 ## Overview
 
 A running version of the application is [hosted on my Huggingface](https://huggingface.co/spaces/EdBianchi/ThemeParksAccidents_RDF-SPARQL).
+
 The purpose of this project is to build a system that uses Semantic Web and Linked Data technologies to analyze accidents occurred in theme parks in the United States. The original Excel dataset can be found on the Saferparks Dataset page. This dataset will be split and modified so that it can be loaded into a Third Normal Form (3FN) PostgreSQL database using PSQL, and converted into the RDF format using the Ontop tool. A final webapp is presented to the user. The app is built with Streamlit and includes several charts and parametric queries. 
 
 The following image depicts the system architecture and all the components:
